@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/Structs/F_Meshes.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/Blueprints/PMA_MeshContainer.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/DataAssets/DA_DemoMeshes.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/PCG/PCG_DemoSpawner.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/__ExternalActors__/PCG_Template/9/YR/T8KDESE2DWIRO81VLSCB9X.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/Blueprints/BP_PCG_Spline01.uasset",
+				"D:/3D/Unreal_Projects/PCG_Templates/Plugins/PCG_Demo/Content/PCG/PCG_Main.uasset"
+			]
+		}
+	]
+}
