@@ -13,7 +13,7 @@ This plugin is part of my small [Youtube channel](https://www.youtube.com/channe
 If you have any remarks, improvements or questions, best post them into the regarding Youtube tutorial chats groups.
 
 ## Overview plugin ##
-![Looped PCG structure](/DeveloperBastian/PCG_Templates/Resources/PCG_Template_Structure.png)
+![Looped PCG structure](/DeveloperBastian/PCG_Templates/blob/main/Resources/PCG_Template_Structure.png?raw=true)
 
 
 
