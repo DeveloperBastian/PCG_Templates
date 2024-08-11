@@ -8,6 +8,10 @@ This allows you to *use PCG without having to familiarize yourself with the stru
 *2024-08-11:*
 - Added individually calculated bounds boundaries per Static Mesh to make self pruning more exact
 - Added Static Mesh specific Weight (chance to be selected) and BoundScale (extend mesh bounds to allow/disallow overlap)
+- Moved Debug mode into the Data Asset - now switchable per Mesh group between:
+	- No Debug
+	- Debug with custom colored cubes
+	- Debug with Static Meshes and colored Wireframes to show bounds
 
 
 ## Links ##
