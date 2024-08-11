@@ -4,6 +4,12 @@ A *free* Unreal *Procedural Content Generation (PCG)* plugin. It allows you to d
 
 This allows you to *use PCG without having to familiarize yourself with the structure of PCG graphs*.
 
+## Updates ##
+*2024-08-11:*
+- Added individually calculated bounds boundaries per Static Mesh to make self pruning more exact
+- Added Static Mesh specific Weight (chance to be selected) and BoundScale (extend mesh bounds to allow/disallow overlap)
+
+
 ## Links ##
 - UEPastebin: https://bit.ly/PCG_Template - Subgraph for info, but easier to use this plugin!
 - Tutorial video: [english](https://youtu.be/DzZpST0NMaA) | [german](https://youtu.be/5vYoQ1HrX70)
