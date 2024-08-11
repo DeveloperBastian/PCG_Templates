@@ -12,6 +12,7 @@ This allows you to *use PCG without having to familiarize yourself with the stru
 	- No Debug
 	- Debug with custom colored cubes
 	- Debug with Static Meshes and colored Wireframes to show bounds
+	- Debug with Static Meshes and colored x.y.z axis Tripods
 
 
 ## Links ##
