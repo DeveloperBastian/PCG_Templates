@@ -5,6 +5,9 @@ A *free* Unreal *Procedural Content Generation (PCG)* plugin. It allows you to d
 This allows you to *use PCG without having to familiarize yourself with the structure of PCG graphs*.
 
 ## Updates ##
+*2024-09-15:*
+Added a Gaea 2 template for quickstart: [https://bit.ly/Gaea2_Template](https://bit.ly/Gaea2_Template)
+
 *2024-08-11:*
 - Added individually calculated bounds boundaries per Static Mesh to make self pruning more exact
 - Added Static Mesh specific Weight (chance to be selected) and BoundScale (extend mesh bounds to allow/disallow overlap)
